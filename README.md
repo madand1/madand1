@@ -1,58 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Andrés+Morales+González;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+# README
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+## About Me
 
-<br>
+Hi there! 👋 I am passionate about **technology** and **aviation**, two fields that have fascinated me for as long as I can remember. I love staying up to date with the latest technological trends and seeing how they are transforming the world around us. Aviation, on the other hand, captivates me from both a technical and operational perspective; the precision, engineering, and coordination involved in flying are truly remarkable to me.
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=madan1&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madand1&layout=compact&theme=radical" />
-</div>
+## What I Do in My Free Time
 
+When I’m not diving into the world of technology or following advancements in aviation, I dedicate my time to **researching new management models**. I’m particularly interested in how mechanical and engineering principles can be applied to managing teams and projects. To me, mechanics isn't just about how machines work—it's also about how we can use those same principles to optimize efficiency in other fields, like administration.
 
-<br>
+## Hobbies
 
-## Language and Tools
+Beyond my passion for tech and aviation, I enjoy **lifting heavy things** 🏋️‍♂️. I train regularly because I find weightlifting to be a great way to release energy and improve my focus.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+On a different note, I'm an avid reader of **manga** and deeply enjoy **stories that go beyond the reach of human capability** as we know it today. Whether it’s science fiction, fantasy, or otherworldly adventures, I love immersing myself in narratives that challenge the limits of what we consider possible. These stories inspire me to think beyond current boundaries and imagine a future full of endless possibilities.
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+## Contact
 
+If you share any of my passions, feel free to reach out. I’m always open to learning and exchanging new ideas!
 
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+---
 
-#### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-
-<br>
-
-## IES GONZALO NAZARENO:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
-**SYSADMIN** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
-
-
-<br>
-
-## Contact me:
-<div>
-<a href="https://www.instagram.com/mad.andy/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: asirandyglez@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9s-morales-gonz%C3%A1lez-6748a5256/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+**Obsession beats talent.**
+![imagen](https://i.pinimg.com/originals/28/c3/72/28c37272863f905a8ece9b0b066edf6d.png)
